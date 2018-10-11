@@ -1,4 +1,4 @@
-# ITCS_4102_Final_Project
+# ITCS 4102 Final Project
 Repository for the final project in ITCS 4102 (Programming Languages). 
 
 **Team members include:** Fatih Agirtmis, Maria Handschu, and Ryan Amarsingh
